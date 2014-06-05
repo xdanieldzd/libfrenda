@@ -1,4 +1,4 @@
-libfrenda
-=========
+Project "Frenda"
+================
 
-Dreamcast/KOS semi-engine helper library thingy
+A sort of semi-engine helper library thingy, for use on Dreamcast with KOS.
