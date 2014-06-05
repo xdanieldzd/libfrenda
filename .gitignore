@@ -216,3 +216,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.a
+*.o
+source/Version.cpp
